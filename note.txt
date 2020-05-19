@@ -1,0 +1,31 @@
+need for angular
+
+html
+css
+bootstrat
+javascript
+es6
+node js
+angular
+
+node js
+
+https://nodejs.org/en/ download 
+
+
+go to cmd
+npm :node package manger
+
+npm install
+
+all file should be save in js ext...
+
+golbal object in node js
+------------------------
+
+    __dirname
+    __filename
+    exports
+    module
+    require()
+
